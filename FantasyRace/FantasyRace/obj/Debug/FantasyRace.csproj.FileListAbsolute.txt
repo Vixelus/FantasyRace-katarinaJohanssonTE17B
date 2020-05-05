@@ -1,0 +1,7 @@
+C:\Users\katarina.johansson3\source\repos\FantasyRace\FantasyRace\bin\Debug\FantasyRace.exe.config
+C:\Users\katarina.johansson3\source\repos\FantasyRace\FantasyRace\bin\Debug\FantasyRace.exe
+C:\Users\katarina.johansson3\source\repos\FantasyRace\FantasyRace\bin\Debug\FantasyRace.pdb
+C:\Users\katarina.johansson3\source\repos\FantasyRace\FantasyRace\obj\Debug\FantasyRace.csprojAssemblyReference.cache
+C:\Users\katarina.johansson3\source\repos\FantasyRace\FantasyRace\obj\Debug\FantasyRace.csproj.CoreCompileInputs.cache
+C:\Users\katarina.johansson3\source\repos\FantasyRace\FantasyRace\obj\Debug\FantasyRace.exe
+C:\Users\katarina.johansson3\source\repos\FantasyRace\FantasyRace\obj\Debug\FantasyRace.pdb
